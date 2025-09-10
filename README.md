@@ -22,6 +22,7 @@
 - 🏅 Received **Certificate of Excellence** for outstanding performance.  
 - 📜 Awarded a **Letter of Recommendation (LOR)** for professional contribution.  
 
+---
 
 ## 🔧 Tech Stack  
 
@@ -78,6 +79,3 @@ Manual testing of PDF operations – merge, split, conversion, and watermark.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](http://www.linkedin.com/in/mahadevan-d-6350a0205)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://mahadevanportfolio.netlify.app/)  
 
----
-
-⭐️ *"Testing is not just finding bugs, it’s about building confidence in software."*  
