@@ -1,81 +1,100 @@
-# 👋 Hi, I'm Deva  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:001f3f&height=220&section=header&text=QA%20TECH%20ASSASSIN&fontSize=40&fontColor=00BFFF&animation=fadeIn" />
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=DmDeva07&color=blue)  
-![GitHub Followers](https://img.shields.io/github/followers/DmDeva07?label=Follow%20Me&style=social)  
+<h2 align="center">⚡ Precision Testing. Zero Compromise.</h2>
 
-💻 **Software Tester | QA Enthusiast | Automation Learner**  
-🚀 Passionate about **Manual & Automation Testing** with a focus on **Selenium + Cucumber + Java + TestNG**.  
-📚 Exploring **Core Java, SQL, BDD, Jenkins, Git, and Framework Development** for real-world QA projects.  
-✨ Dream: To build reliable, bug-free applications and grow as a **QA Automation Engineer**.  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,selenium,cypress,maven,git,jenkins" />
+</p>
+
+> 🧠 “Quality isn’t optional. It’s engineered.”
 
 ---
 
-## ✍️ Slogan  
+# 👋 Hi, I'm Deva  
 
-> **"Behind Every Great Release Is A Stubborn Tester"** ✍  
+💻 **QA Automation Engineer | Selenium ⚔️ | Cypress 🔥 | CI/CD 🛡**  
+🚀 Passionate about building scalable automation frameworks and ensuring production stability.  
+🧠 Focused on clean test design, structured frameworks & real-world QA solutions.  
+🎯 Mission: Deliver bug-free, high-quality software experiences.  
+
+---
+
+## 🛡 QA Warrior Arsenal
+
+- ⚔️ Selenium WebDriver (Java)  
+- 🔥 Cypress Automation  
+- 🧠 TestNG & Cucumber (BDD)  
+- 🛡 Page Object Model (POM)  
+- 💣 Data-Driven & Hybrid Frameworks  
+- 🚀 CI/CD Integration with Jenkins  
+- 🔎 SQL Validation for Backend Testing  
+- 📊 Defect Tracking & Root Cause Analysis  
 
 ---
 
 ## 🏆 Achievements  
 
-- 🎓 Successfully completed Internship at **Code Craft**.  
-- 🏅 Received **Certificate of Excellence** for outstanding performance.  
-- 📜 Awarded a **Letter of Recommendation (LOR)** for professional contribution.  
+- 🎓 Completed QA Internship at **LMES Academy**  
+- 🏢 Hands-on experience in real-time web application testing  
+- 🏅 Awarded Certificate of Excellence  
+- 📜 Received Letter of Recommendation (LOR)  
 
 ---
 
-## 🔧 Tech Stack  
+## ⚙️ Tech Stack  
 
-- 🖥️ **Languages**: Java, SQL  
-- 🧪 **Testing**: Manual Testing, Selenium WebDriver, TestNG, JUnit  
+- 🖥 **Languages**: Java, SQL  
+- 🧪 **Automation Tools**: Selenium WebDriver, Cypress  
+- 📘 **Frameworks**: TestNG, Cucumber (BDD), JUnit  
 - 📦 **Build Tools**: Maven  
 - 🔄 **Version Control**: Git & GitHub  
-- ⚙️ **CI/CD**: Jenkins (basic knowledge)  
-- 📊 **Other Tools**: JIRA, Microsoft Office Suite, Adobe PS & Adobe Illustrator
+- ⚡ **CI/CD**: Jenkins  
+- 🗂 **Bug Tracking**: JIRA  
 
 ---
 
 ## 📂 Featured Projects  
 
 ### 🏨 Selenium Hotel Booking Automation  
-Automated login, search, and booking flow of a hotel web app.  
+- Built automation framework using Selenium + Java + TestNG  
+- Implemented Page Object Model design pattern  
+- Integrated reporting for execution analysis  
+- Automated end-to-end booking workflow  
 
 ### 🛒 E-commerce Website Testing  
-Tested shopping flow including add-to-cart, checkout, and payment validation.  
+- Designed and executed structured manual test cases  
+- Validated cart, checkout & payment modules  
+- Performed regression and usability testing  
 
 ### 📑 PDF Utility App Testing  
-Manual testing of PDF operations – merge, split, conversion, and watermark.  
-
-👉 Check my repositories for more 🚀  
-
----
-
-## 📘 Learning Resources  
-
-- 🔹 **Manual Testing Concepts** – Test case design, Bug reporting, SDLC & STLC.  
-- 🔹 **Automation Testing** – Selenium WebDriver & Cucumber with Java.  
-- 🔹 **Core Java for QA Testers** – Small programs to strengthen basics.  
-- 🔹 **SQL for Testers** – Queries for data validation.  
+- Conducted functional & regression testing  
+- Validated merge, split, conversion & watermark features  
+- Ensured UI consistency and data accuracy  
 
 ---
 
 ## 📊 GitHub Stats  
 
-![Deva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DmDeva07&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DmDeva07&layout=compact&theme=radical)  
-![Streak Stats](https://streak-stats.demolab.com/?user=DmDeva07&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DmDeva07&show_icons=true&theme=chartreuse-dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmDeva07&layout=compact&theme=chartreuse-dark" />
+</p>
 
 ---
 
-## 🌱 Currently Working On  
-- Strengthening Selenium + Java + TestNG frameworks  
-- Practicing SQL queries for QA scenarios  
-- Building GitHub portfolio with projects  
+## 🐍 Bug Hunter Activity  
+
+![Snake animation](https://github.com/DmDeva07/DmDeva07/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-## 📫 Connect with Me  
+## 📫 Connect With The Warrior  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](http://www.linkedin.com/in/mahadevan-d-6350a0205)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00FFAA?logo=linkedin&logoColor=black)](http://www.linkedin.com/in/mahadevan-d-6350a0205)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://mahadevanportfolio.netlify.app/)  
 
+---
+
+> ⚔️ "Users see features. I see edge cases."  
